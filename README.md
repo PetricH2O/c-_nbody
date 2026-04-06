@@ -54,3 +54,28 @@
   <br>
   <em>圖2：參數設定介面</em>
 </p>
+
+
+<p align="center">
+  <img src="images/gui(2).png" width="600"/>
+  <br>
+  <em>圖2：參數設定介面(2)</em>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
