@@ -44,7 +44,7 @@
 ## Demo
 
 <p align="center">
-  <img src="images/Architecture.png" width="600"/>
+  <img src="images/Architecture.jpg" width="600"/>
   <br>
   <em>圖1：N-body 系統架構</em>
 </p>
