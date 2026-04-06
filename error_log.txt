@@ -1,0 +1,7 @@
+An error occurred during the simulation:
+Traceback (most recent call last):
+  File "D:\code\c_nbody\simulation_cpp.py", line 275, in <module>
+    main()
+  File "D:\code\c_nbody\simulation_cpp.py", line 163, in main
+    nbody_cpp.check_collision_inplace(mass, position, velocity, 0.5, 0.7)
+AttributeError: module 'nbody_cpp' has no attribute 'check_collision_inplace'

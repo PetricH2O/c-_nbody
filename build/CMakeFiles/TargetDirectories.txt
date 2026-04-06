@@ -1,0 +1,3 @@
+D:/code/c_nbody/build/CMakeFiles/nbody_cpp.dir
+D:/code/c_nbody/build/CMakeFiles/ALL_BUILD.dir
+D:/code/c_nbody/build/CMakeFiles/ZERO_CHECK.dir
